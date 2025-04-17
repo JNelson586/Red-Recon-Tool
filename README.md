@@ -28,4 +28,4 @@ This tool automates the flow from domain discovery ➡️ subdomain enumeration 
 
 ---
 
-Built for recon warriors. Fueled by Project Discovery. Run it loud.
+Built for recon warriors. Run it loud.
