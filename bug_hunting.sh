@@ -97,7 +97,8 @@ loading_pid=$!
 subfinder -list $1 -o $2 
 cat $2 | cut -d "," -f 1 | tee -a $3
 cat $3 | httpx -title -wc -sc -cl -ct -web-server -asn -o $4 -p 8000,8080,8443,443,80,8008,3000,5000,9090,900,7070,9200,15672,9000 -threads 75 -location
-grep -i '200\|301' $4| cut -d " " -f 1 | tee -a $5 &
+grep -i '200\|301' $4| cut -d " " -f 1 | tee -a $5 
+katana -u $5 -o $6
 
 # Wait for the background task to complete
 wait $!
