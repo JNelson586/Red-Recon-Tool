@@ -26,7 +26,7 @@ Please provide the following **five inputs** in order:
 
 ## 💥 What It Does
 
-This tool automates the flow from domain discovery ➡️ subdomain enumeration ➡️ vulnerability checks ➡️ output cleanup — so you can spend more time digging into the juicy stuff 🔍
+This tool automates the flow from domain discovery ➡️ subdomain enumeration ➡️ vulnerability checks ➡️ directory fuzzing ➡️ output cleanup — so you can spend more time digging into the juicy stuff 🔍
 
 ---
 
