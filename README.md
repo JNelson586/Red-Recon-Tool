@@ -15,10 +15,12 @@ Please provide the following **five inputs** in order:
 3. The name of a file to **clean the output**
 4. The output of the [**Nuclei**](https://github.com/projectdiscovery/nuclei) results
 5. A final curated list of **200 & 301 URLs** that are up and active
+6. Final file for Katana to output FUZZED directories and files
 
 > ⚠️ **NOTE:**  
 > You must have [**Nuclei**](https://github.com/projectdiscovery/nuclei) installed to scan for vulnerabilities.  
 > You must have [**Subfinder**](https://github.com/projectdiscovery/subfinder) installed to enumerate subdomains.
+> You must have [**Katana**](https://github.com/projectdiscovery/katana) installed to enumerate subdomains.
 
 ---
 
