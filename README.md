@@ -20,7 +20,7 @@ Please provide the following **five inputs** in order:
 > ⚠️ **NOTE:**  
 > You must have [**Nuclei**](https://github.com/projectdiscovery/nuclei) installed to scan for vulnerabilities.  
 > You must have [**Subfinder**](https://github.com/projectdiscovery/subfinder) installed to enumerate subdomains.
-> You must have [**Katana**](https://github.com/projectdiscovery/katana) installed to enumerate subdomains.
+> You must have [**Katana**](https://github.com/projectdiscovery/katana) installed to Fuzz for directories.
 
 ---
 
